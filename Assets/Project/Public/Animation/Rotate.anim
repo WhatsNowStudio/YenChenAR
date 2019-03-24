@@ -1,0 +1,2076 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Rotate
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 30
+        value: {x: 0, y: 0, z: 450}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 30
+        value: {x: 0, y: 0, z: 450}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.11418682
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.48552656
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.7058823
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1411765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.122
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.119377166
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.24767333
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.33823532
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.11418682
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.48552656
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.7058823
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 94738235389b8ff49a786172edeb61c5, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[2]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: cb1caa263de4b494d9ca985de2a0da4c, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[3]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[2]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[3]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[4]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[5]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B008"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B007"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B006"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B005"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B004"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B003"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B008"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B007"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B006"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B005"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B004"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/\u628A\u624B/\u5F8C\u9215\u628A\u624B003"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u5DE6"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B002"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B001"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B000"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B002"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B001"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u524D\u9580/\u5F8C\u9215\u628A\u624B000"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 63aa07c64381eba4491ea19228e4eaf9, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A/\u5674\u69CD\u67B6_\u4E0B"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A/\u5674\u69CD\u67B6_\u4E0B"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[2]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A/\u5674\u69CD\u67B6_\u4E0B"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 63aa07c64381eba4491ea19228e4eaf9, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - time: 2
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[3]
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u524D\u9580+\u5674\u69CD/\u5674\u69CD\u67B6_\u4E0A/\u5674\u69CD\u67B6_\u4E0B"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: "SC-150_Ani/\u5167\u53F0\u8ECA/Model\u5167\u53F0\u8ECA"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[1]
+    path: "SC-150_Ani/\u5167\u53F0\u8ECA/Model\u5167\u53F0\u8ECA"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[2]
+    path: "SC-150_Ani/\u5167\u53F0\u8ECA/Model\u5167\u53F0\u8ECA"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[3]
+    path: "SC-150_Ani/\u5167\u53F0\u8ECA/Model\u5167\u53F0\u8ECA"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - time: 0.5
+      value: {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    attribute: m_Materials.Array.data[4]
+    path: "SC-150_Ani/\u5167\u53F0\u8ECA/Model\u5167\u53F0\u8ECA"
+    classID: 23
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1106642581
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2629243724
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1218664834
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1487100290
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1755535746
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 2108656497
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3421800040
+      attribute: 1218664834
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3421800040
+      attribute: 1487100290
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3421800040
+      attribute: 1755535746
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 1218664834
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 1487100290
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 1755535746
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 5
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1063345333
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2950578468
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3638129074
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1104158728
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 920064158
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2830337341
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1063345333
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2950578468
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3638129074
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1104158728
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 920064158
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2830337341
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2981551736
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3421800040
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 573777016
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3565368805
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1300915295
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 982340809
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3565368805
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1300915295
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 982340809
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4202205685
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4202205685
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1272508029
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1272508029
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1272508029
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1272508029
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2930299178
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2930299178
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2930299178
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2930299178
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2930299178
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 2023971202
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1303350129
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1571785585
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2994778770
+      attribute: 1840221041
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3421800040
+      attribute: 2023971202
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 924569140
+      attribute: 2023971202
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping:
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 94738235389b8ff49a786172edeb61c5, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: cb1caa263de4b494d9ca985de2a0da4c, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 63aa07c64381eba4491ea19228e4eaf9, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9bf2992a7cf498e49813395f2962840d, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 63aa07c64381eba4491ea19228e4eaf9, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 328e7dba13bbd2147834fcc4bb2919bc, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 9c8344671bfd33d4ca748c36f1f8f437, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+    - {fileID: 2100000, guid: 40b1420ae29597a40800e98a0dd7b5c6, type: 2}
+    - {fileID: 2100000, guid: fe3a487065a892e48ad4fc355dd87452, type: 2}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 30
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.11418682
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.48552656
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.7058823
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1411765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2
+        value: 0.122
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._Color.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.119377166
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.24767333
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.33823532
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/\u9580_\u53F3"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.11418682
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.r
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.48552656
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.g
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.7058823
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.b
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._EmissionColor.a
+    path: "SC-150_Ani/\u819C\u8863\u6A5F\u5916\u6BBC/SC-150\u5916\u58C1/SC-150\u5167\u58C1"
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 450
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 30
+        value: 450
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5916"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: "SC-150_Ani/\u5927\u934B/\u5927\u934B_\u5167"
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
