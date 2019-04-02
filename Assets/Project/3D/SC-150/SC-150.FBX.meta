@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: d468ebf887a418549bf837e55c02b7c5
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     100002: Line001
@@ -57,6 +57,8 @@ ModelImporter:
     100102: "\u6C34\u7BA1"
     100104: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
     100106: "\u9032\u6C23\u7BA1"
+    100108: "\u63A8\u8ECA\u628A\u624B_\u77ED"
+    100110: "\u63A8\u8ECA\u628A\u624B_\u9577"
     400000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     400002: Line001
     400004: Line002
@@ -111,6 +113,8 @@ ModelImporter:
     400102: "\u6C34\u7BA1"
     400104: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
     400106: "\u9032\u6C23\u7BA1"
+    400108: "\u63A8\u8ECA\u628A\u624B_\u77ED"
+    400110: "\u63A8\u8ECA\u628A\u624B_\u9577"
     2100000: MetalReflectionHigh
     2100002: Color368
     2100004: MetalReflectionLow
@@ -153,6 +157,8 @@ ModelImporter:
     2100078: 'Color #37f266ff'
     2100080: 19 - Default
     2100082: 19 - Default2
+    2100084: Black
+    2100086: "\u900F\u660E"
     2300000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     2300002: "SC-150\u5167\u58C1"
     2300004: "SC-150\u5916\u58C1"
@@ -199,6 +205,8 @@ ModelImporter:
     2300086: "\u6C34\u7BA1"
     2300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
     2300090: "\u9032\u6C23\u7BA1"
+    2300092: "\u63A8\u8ECA\u628A\u624B_\u77ED"
+    2300094: "\u63A8\u8ECA\u628A\u624B_\u9577"
     3300000: "150L\u6DB2\u5291\u6876_\u914D\u652A\u62CC\u99AC\u9054"
     3300002: "SC-150\u5167\u58C1"
     3300004: "SC-150\u5916\u58C1"
@@ -245,6 +253,8 @@ ModelImporter:
     3300086: "\u6C34\u7BA1"
     3300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
     3300090: "\u9032\u6C23\u7BA1"
+    3300092: "\u63A8\u8ECA\u628A\u624B_\u77ED"
+    3300094: "\u63A8\u8ECA\u628A\u624B_\u9577"
     4300000: "\u63A8\u8ECA"
     4300002: "\u6392\u98A8\u7F69"
     4300004: "\u5674\u69CD"
@@ -291,6 +301,8 @@ ModelImporter:
     4300086: "150L\u6DB2\u5291\u6876_\u6876\u84CB"
     4300088: "\u6C34\u7BA1\u4E09\u968E\u6BB5"
     4300090: "\u9032\u6C23\u7BA1"
+    4300092: "\u63A8\u8ECA\u628A\u624B_\u9577"
+    4300094: "\u63A8\u8ECA\u628A\u624B_\u77ED"
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -312,7 +324,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -344,8 +355,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.0254
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -365,6 +374,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
