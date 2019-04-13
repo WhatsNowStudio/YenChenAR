@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: e0c740f9bd68eda44acb18e5e38a7e1b
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     100002: Tube_L1
@@ -9,12 +9,14 @@ ModelImporter:
     100006: Tube_R
     100008: Wall
     100010: Tube
+    100012: TubeBottom
     400000: //RootNode
     400002: Tube_L1
     400004: Tube_L2
     400006: Tube_R
     400008: Wall
     400010: Tube
+    400012: TubeBottom
     2100000: 'Material #83'
     2100002: 24 - Default
     2300000: //RootNode
@@ -23,17 +25,20 @@ ModelImporter:
     2300006: Tube_R
     2300008: Wall
     2300010: Tube
+    2300012: TubeBottom
     3300000: //RootNode
     3300002: Tube_L1
     3300004: Tube_L2
     3300006: Tube_R
     3300008: Wall
     3300010: Tube
+    3300012: TubeBottom
     4300000: Wall
     4300002: Tube_R
     4300004: Tube_L1
     4300006: Tube_L2
     4300008: Tube
+    4300010: TubeBottom
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -53,7 +58,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -85,8 +89,6 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -106,6 +108,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
